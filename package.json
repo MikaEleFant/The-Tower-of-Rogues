@@ -25,6 +25,6 @@
     "npm": "6.9.0"
   },
   "scripts": {
-    "start": "npm run grunt"
+    "start": "npx grunt"
   }
 }
