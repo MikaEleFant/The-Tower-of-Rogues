@@ -19,5 +19,12 @@
     "grunt-contrib-watch": "*",
     "grunt-curl": "*",
     "grunt-processhtml": "*"
+  },
+  "engines": {
+    "node": "10.16.3",
+    "npm": "6.9.0"
+  },
+  "scripts": {
+    "postinstall": "grunt"
   }
 }
