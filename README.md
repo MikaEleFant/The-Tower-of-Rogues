@@ -1,4 +1,6 @@
 # The-Tower-of-Rogues
+[Live Link to The Tower of Rogues](https://mikaelefant.github.io/The-Tower-of-Rogues/ "The Tower of Rogues")
+
 The Tower of Rogues is a simple rogue-like game where the goal is to kill all enemies on the map before you are killed!
 
 # Technologies
